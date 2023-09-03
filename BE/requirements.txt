@@ -1,0 +1,4 @@
+python==3.11.4  
+fastapi==0.100.1
+WebSockets==11.0.3
+tinydb==4.8.0
