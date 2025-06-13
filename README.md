@@ -1,4 +1,4 @@
-# FastAPI Websockets  
+# FastAPI Websockets
 
 A Python project demonstrating the integration of **FastAPI** with **WebSockets** to build real-time, bidirectional communication between clients and servers. This setup is ideal for applications requiring live updates, such as chat applications, live notifications, or real-time dashboards.
 
